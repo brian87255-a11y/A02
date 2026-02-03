@@ -1,5 +1,5 @@
 -- Creating your first repo -- \
-  -- Setting up account --
+  -- Setting up account -- \
 Step 1: Go to https://github.com/ \
 Step 2: Locate the "Sign up for GitHub" button \
 Step 3: On the open space fill out the necessary information then click the button \
