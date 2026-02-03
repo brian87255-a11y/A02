@@ -1,5 +1,5 @@
 Creating your first repository: \
-  ** Setting up account ** 
+  -- Setting up account -- 
   
 Step 1: Go to https://github.com/ \
 Step 2: Locate the "Sign up for GitHub" button \
@@ -34,4 +34,11 @@ Repository - A folder where Git tracks your project and its history \
 
 
 References:
-------------------------
+------------------------ 
+https://docs.github.com/en/get-started/git-basics/about-remote-repositories 
+https://github.com/git-guides/git-pull 
+https://www.w3schools.com/whatis/whatis_github.asp 
+https://docs.github.com/en/get-started/using-git/about-git
+https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository 
+https://github.com/git-guides/git-commit 
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches 
