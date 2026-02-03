@@ -1,4 +1,5 @@
-Creating your first repository: \
+Creating your first repository
+--------------------------------
   -- Setting up account -- 
   
 Step 1: Go to https://github.com/ \
@@ -19,7 +20,7 @@ Step 5: Lastly, you will clcik "Create repository" \
 ** Your Repo is now successful create ** \
 
 Glossary 
-____________________ 
+----------------------------
 Branch - A isolated enviroment that allows for editing, debugging, and experimenting to happen withouting effecting the repository \
 Clone - duplicating a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits \
 Commit - records changes to one or more files in your branch \
