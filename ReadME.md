@@ -22,12 +22,12 @@ Step 5: Lastly, you will clcik "Create repository" \
 Glossary 
 ----------------------------
 Branch - A isolated enviroment that allows for editing, debugging, and experimenting to happen withouting effecting the repository \
-Clone - duplicating a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits \
+Clone - duplicates a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits \
 Commit - records changes to one or more files in your branch \
 Fetch - downloads commits, files, and refs from a remote repository into your local repo \
 GIT - version control system \
 Github - a cloud-based platform and Git repository hosting service that enables developers to store, manage, and collaborate on code projects \
-Merge - combine different people's work together with yours \
+Merge - combines different people's work together with yours \
 Push - Send your changes to a remote repository \
 Pull - brings in the repository as it is in the remote repository \
 Remote - a reference for a shared Git repository hosted on a different server \
