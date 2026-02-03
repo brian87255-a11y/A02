@@ -1,4 +1,4 @@
--- Creating your first repository -- \
+Creating your first repository: \
   ** Setting up account ** 
   
 Step 1: Go to https://github.com/ \
