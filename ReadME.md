@@ -1,6 +1,6 @@
 -- Creating your first repo --
   -- Setting up account --
-Step 1: Go to https://github.com/ 
+Step 1: Go to https://github.com/ \
 Step 2: Locate the "Sign up for GitHub" button
 Step 3: On the open space fill out the necessary information then click the button 
 Step 4: Once on the new page, create a password, a username, and then select your region 
